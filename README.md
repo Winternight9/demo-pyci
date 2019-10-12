@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Winternight9/demo-pyci.svg?branch=master)](https://travis-ci.com/Winternight9/demo-pyci)
 Continuous Integration Demo
 ============================
 
